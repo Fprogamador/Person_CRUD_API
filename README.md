@@ -4,7 +4,7 @@ Este é um projeto de API CRUD simples feito em .NET, utilizando o Entity Framew
 
 ## Tecnologias Utilizadas
 
-- **.NET 8
+- **.NET 8**
 - **Entity Framework Core**
 - **SQLite** como banco de dados
 - **Swagger** para documentação da API
